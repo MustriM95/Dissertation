@@ -1,0 +1,91 @@
+\chapter{ Entropy dissipation and free energy availability as drivers of microbial community assembly}
+
+\section{Background}
+
+Microbial communities carry out a plethora of biochemical reactions through a diverse array of pathways, many of which are central to global biogeochemical cycles \cite{falkowski_microbial_2008}. Though there is excellent research showing how these reactions relate to microbial metabolism and growth at the individual and population level \cite{tang2017a}, it remains unclear how these principles scale to shape microbial communities. Most research concerned with the assembly and dynamics of microbial communities has focused on general rules arising from idealized trophic interactions \cite{bosi_perspectives_2017, van_den_berg_ecological_2022}, yet they do little to elucidate the mechanisms from which they emerge. Sequencing and metabolomic technologies have made it feasible to characterize how these reactions are structured at various spatial and temporal scales, offering a bioenergetic perspective on community dynamics (for a review, see \cite{kreft_genes_2017}). Here, I propose a method to reconstruct the thermodynamic properties of microbial metabolic interactions from genomically inferred reaction networks. The aim of this method and the corresponding chapter is to explore how thermodynamic forces impinge on the organization of microbial communities. 
+
+% A paragraph on mechanistic models of microbial community assembly (as in community flux analysis, flux balance analysis, etc.)
+
+Metabolic reaction networks are one of the primary tools used to understand how microbial populations interact with their environment. These networks allow us to map the potential pathways through which microbes process externally sourced substrates and whether these are ultimately assimilated into biomass or excreted as metabolic byproducts. The core principle which makes this kind of analysis possible is the application of stoichiometry to constrain the net flux of substrates through a reaction network. Furthermore, knowledge of the thermodynamic properties of key metabolic reactions (e.g. affinities and free energy yields) can offer additional details about the favorability of the corresponding pathways in a given environment \cite{kleerebezem2010a}. This general framework, commonly termed metabolic flux analysis, has been remarkably successful in reproducing empirical observations for different kinds of microbial systems \textcolor{red}{citations}. Despite this versatility, the simple formulation of the theory, in conjunction with its open ended assumptions, makes its application to highly diverse communities a persistent challenge. 
+
+% Another paragraph exploring the common assumptions made about how microbial communities organize. What are the principles, optimization of some target function, approximated kinetics, etc.
+
+Metabolic flux analysis (MFA), in its numerous manifestations, is subject to a set of fundamental constraints \cite{kooijman1998a, kleerebezem2010a}. Once applied to the dynamical equations, these constraints allow us to formulate the solution in terms of a system of underdetermined equations. In order to find acceptable solutions to the equations, it is often assumed that the microbial system optimizes a target quantity. For example, flux balance analysis is commonly performed under the supposition that microbial metabolism maximizes the molar yield of the network; however, it is clear that this is by no means a general organizing principle \cite{schuster_is_2008}. As such, the effectiveness of MFA is strongly dependent on the presupposed teleology of the microbial system. 
+
+% A word about the main challenges, underdetermination of flux balance frameworks, difficulties in estimating absolute biomasses and corresponding fluxes, environmental tipping points. Explain how your approach helps resolve these challenges.
+
+Beyond the challenge of selecting adequate optimization targets, there are a number of additional limitations associated with the application of MFA in complex microbial communities. A notable instance is the difficulty of justifying the steady-state condition for a large collection of microbes, given how unlikely it is that all members simultaneously prioritize biomass assimilation \cite{harcombe_metabolic_2014}. Of course, the steady-state condition can be relaxed through additional approximations (for example, \cite{khandelwal_community_2013, manhart_growth_2018}), though often with accompanying trade-offs. Further obstacles lie in providing realistic bounds for reaction rates and accounting for the costs of substrate transport. 
+
+% A paragraph on extremization principles and hypotheses
+
+In this chapter, I am proposing an extension of MFA that explicitly includes information on the thermodynamic properties of metabolic pathways such that state variables (e.g. free energy production and entropy dissipation) can be introduced as optimization targets. In addition to this, I plan to integrate the MFA framework into a spatially explicit substrate transport model, which would allow estimation of ecosystem-scale substrate fluxes. Following the development of the model, I aim to test whether soil ecosystems are organized by thermodynamic extremization principles such as, for example: the Maximum Power Principle \cite{odum_times_1955} and the Maximum Entropy Production Principle \cite{martyushev_maximum_2006}. 
+
+\subsection{Hypotheses and Predictions}
+
+As mentioned above, one of the key assumptions of the proposed method (and of MFA in general), is that microbial systems self organize towards an optimal objective function. Throughout I will be comparing the effectiveness of three differet objective functions at predicting steady state substrate concentrations and fluxes, each obejctive functions therefore represents a hypothesis. Hence, the Maximum Power Principle (MPP) predicts that the system will maximize the flow of free energy through the system, the Maximum Entorpy Production Principle (MEPP) maximizes the rate of entropy dissipation, and the Balanced Growth Hypotheses (BG) states that the biomass yield of the microbial community will be optmimized. To my knowledge, neither MPP nor MEPP have been tested as viable optimization targets for microbial communities despite being prominent concepts within ecosystem ecology \cite{odum_times_1955,meysman_thermodynamic_2007, unrean_metabolic_2011, endres_entropy_2017}
+
+\section{Approach and Methods}
+
+\subsection{Model development}
+
+There exist many methods to approximate microbial growth from genomically inferred metabolic pathways \cite{kreft_genes_2017}. From these approaches, it is possible to explicitly derive how metabolism acts from a thermodynamic perspective, particularly in relation to entropy dissipation and free energy availability \cite{kleerebezem2010a}. In this chapter, I will incorporate the thermodynamics of microbial metabolic pathways into a larger description of soil nutrient cycling, focusing on how key microbial functional groups are constrained by environmental conditions. My approach builds on the general formulation of metabolic flux analysis by employing network thermodynamics as an additional source of constraints and optimization targets. As in traditional flux balance analysis, the system is initially defined in terms of the mass-action principle.
+
+\begin{equation}
+    \Delta_{t} S_{\alpha} = (S_{\alpha}^{I} - S_{\alpha}^{O}) + \sum_{i} \sum_{k} q_{ki}\gamma_{\alpha k} - B_{i\alpha} 
+    \label{eq:massact}
+\end{equation}
+
+Equation \ref{eq:massact} states that the change over time in the concentration of substrate $S_{\alpha}$ is given by the influx from an external pool ($S_{\alpha}^{I}$), conversion reactions carried out by microbes ($q_{ki}\gamma_{\alpha k}$), assimilation into microbial biomass ($B_{i\alpha}$), and outflow ($S_{\alpha}^{O}$). Stoichiometric coefficients ($\gamma_{\alpha k}$) are known from pathway biochemistry, while reaction rates ($q_{ki}$ and $B_{i\alpha}$) are determined by a subsequent optimization procedure. Inflow and outflow rates are governed by transport models, which will be discussed elsewhere.
+
+In order to solve equation \ref{eq:massact}, we must either postulate a set of dynamical equations for each chemical reaction, or assume that the system can be approximated as a stationary process. In the latter case, we must introduce a version of the steady-state condition; for example, by setting eq. \ref{eq:massact} to zero.
+
+\begin{equation}
+    (S_{\alpha}^{I} - S_{\alpha}^{O}) + \sum_{i} \sum_{k} q_{ki}\gamma_{\alpha k} - B_{i\alpha} = 0
+    \label{eq:MASS}
+\end{equation}
+
+This is the core assumption of flux balance analysis, which allows us to ascertain the structure of the community by means of an optimization problem. Since the system of equations defined by eq. \ref{eq:MASS} is of smaller order than the number of unknown quantities (typically $q{ki}$ and $B_{i\alpha}$), it is necessary to assume an \textit{a priori} optimization target to select among the infinite possible solutions. The search space of the problem can be reduced through the introduction of additional constraints. For instance, there are known biological or chemical limits for certain reactions, these can be used to bound the corresponding rates.
+
+\begin{equation}
+    q_{ki}^{min} \leq q_{ki} \leq q_{ki}^{max}
+\end{equation}
+
+We can move beyond traditional MFA by considering the thermodynamic properties of each metabolic pathway. Specifically, the Gibbs free energy yield of catabolic and anabolic reactions can be estimated from stoichiometric coefficients in addition to the Gibbs energy of formation of individual compounds. Whole-network thermodynamics can be further resolved through the use of known biomass yields. Given a single metabolic pathway, Gibbs free energy yield is given by:
+
+\begin{equation}
+        \Delta G_{Met} = \lambda_{Cat} \Delta G_{Cat} + \Delta G_{An} + \Delta G_{Dis} = 0
+\end{equation}
+
+$\Delta G_{Cat}$, $\Delta G_{An}$, and $\Delta G_{Dis}$ are the Gibbs free energies of catabolic and anabolic reactions plus the dissipated free energy. $\lambda_{Cat}$ represents the efficiency of biomass formation, that is, how many times the catabolic reaction needs to be carried out to yield one unit of biomass. Although there are important subtleties in the precise calculation of each of these terms, I delegate that discussion to the broader literature \cite{kleerebezem2010a, desmond-le_quemener_thermodynamic_2014}. Gibbs free energies can be used to estimate whole network state variables such as entropy production.
+
+\begin{equation}
+         \sigma_{Net} = \sum_{i} \dfrac{\Delta G^{Met}_{i\alpha}}{T} \dfrac{d\xi^{Met}_{B, i}}{dt} = \sum_{i \alpha} \dfrac{\Delta G^{Met}_{i\alpha} B_{i\alpha}}{T} 
+     \end{equation}
+
+Finally, network thermodynamics facilitate the construction of fundamental energetic constraints applicable to systems more generally (e.g. reversibility conditions for specific chemical reactions). 
+
+%Furthermore, give some indication of how you plan to incorporate resource transport mechanisms.
+
+Before applying the MFA model presented above to soil ecosystems, it must be coupled to a spatially explicit transport model so that substrate concentrations are able to diffuse along the soil column. This will be accompished by modifying the DETECT model \cite{ryan_modeling_2018} so that substrate production rates are governed by the flux balances obstained from MFA. Likewise, substrate inflow and outflow will be constrained via DETECT's dtransport mechanisms. 
+
+\subsection{Empirical validation}
+
+% We don't currently have a plan for empirical validation, but we can give a rough idea of how this might be done using EMERGE data. Maybe point out the plethora of genomic data and the possibility of using corresponding flux measurements and metabolomic data.
+
+% focus rather on specifying a pipeline, as in the Hough paper.
+
+% A few sentences on coarse grained observables, such as soil NOSC and biomass estimates using chloroform fumigation.
+
+Having defined the modeling formalism, is is necessary to propose an empirical scheme within which the hypotheses and corresponding predictions can be compared. First, I will summarize the data pipeline which will be used to parameterize the MFA and underlying constraints. This includes the reconstruction of microbial metabolic networks using metagenome assembled genomes (MAGs), initializing constraints and transport model with available soil chemistry and plant productivity data, and integration of substrate thermodynamics into network analysis. Lastly, I give a sketch of how model predictions will be compared and tested with a combinaiton of metabolomics, chamber gas fluxes, and metatranscriptomics.
+
+\subsection{Modeling Pipeline}
+
+The coupled MFA and substrate transport model require 4 main types of data: (1) presence/absence of metabolic pathways to reconstruct microbial networks, (2) initial substrate input rates estimated from plant litter decomposition, (3) physico-chemical properties of the soil matrix at different depths (e.g. temperature and pH), and (4) thermochemical data for the range of available substrates. The first three types of data will be sourced from the EMERGE BII database, which contains over 10 years data from the long-term investigation of the permafrost system in Stordalen Mire, Sweden. Metabolic pathway infromation will be inferred from MAGs sequenced from soil cores at different depths, and annotated using microTrait \cite{karaoz2022a}. Substrate input rates will be esitmated from previous measurements of litter decomposition rate for different types of vegetation \cite{hough2022a}. Soil physico-chemistry will be taken from EMERGE biogeochemistry datasets. Lastly, thermochemical data will be pulled from the NIST reference database \cite{p_nist_1998}.
+
+\subsection{Model Comparison and Hypothesis Testing}
+
+
+
+
+
+
