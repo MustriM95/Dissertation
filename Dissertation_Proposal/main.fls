@@ -1,8 +1,8 @@
-PWD c:/Users/micho/OneDrive/Documentos/PHD/Dissertation_Proposal
+PWD c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal
 INPUT c:/texlive/2025/texmf.cnf
 INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/micho/OneDrive/Documentos/PHD/Dissertation_Proposal/main.tex
+INPUT c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
