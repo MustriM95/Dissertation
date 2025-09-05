@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1756930622.37564 "main.bcf" "main.bbl" "main" 1756946500.86338 0
-  "main.bcf" 1756946500 120701 e295748ed0b9a01eba174128690ef7f3 "pdflatex"
-  "references.bib" 1756930604 238258 539e673360576870296a6c83b2c4aabb ""
+["biber main"] 1757027749.3937 "main.bcf" "main.bbl" "main" 1757027773.434 0
+  "main.bcf" 1757027773 120936 fdd7d1f78b5134dfb442574899ed669d "pdflatex"
+  "references.bib" 1757027702 244854 382af2e43d61749bfe44a177dd18b5ee ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1756946494.38004 "c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex" "main.pdf" "main" 1756946500.86527 0
+["pdflatex"] 1757027766.84659 "c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex" "main.pdf" "main" 1757027773.435 0
   "c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex" 1756419691 5639 b46bca857257e1f8926380e52267b71a ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1756404559 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1756405103 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -120,19 +120,19 @@
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1756410387 3605800 3687d89df5fa57c777e754d5a2cc66a0 ""
   "c:/texlive/2025/texmf.cnf" 1756410102 713 e69b156964470283e0530f5060668171 ""
   "chapter1.tex" 1756920056 11619 d98bc1f0ac24a0155325decdde18fde5 ""
-  "chapter2.tex" 1756946492 14472 1f5f96ec32cae7af2b3d29aee1c8a5c5 ""
+  "chapter2.tex" 1757027702 14626 767483800c47356c88b66962a3db0d31 ""
   "chapter3.tex" 1756853931 15288 b69c8391026cf13886cba07e8ad59ce7 ""
   "chapter4.tex" 1756848036 4861 09571c49fcd29da475f88d5eaafa5117 ""
   "figures/SAD_fig.png" 1756853806 161342 936dac27ca582b886ada06d055635e5a ""
   "figures/SLA_G_Pinc.png" 1756859081 509154 fd6f6db368d143f0d9542d9096c37d3c ""
   "figures/pred.png" 1756402601 41113 305e83182f8fe9d5821822466ee0b711 ""
   "intro.tex" 1756850598 15744 a49531714d828ed600251d1285a94fed ""
-  "main.aux" 1756946500 32451 41e5f9997e9bbc201646a09f482a33ee "pdflatex"
-  "main.bbl" 1756930626 550229 76e5bf047e57c1886c2729192862435d "biber main"
-  "main.out" 1756946500 7685 9992eb43d095a6fa1420149107ff9318 "pdflatex"
-  "main.run.xml" 1756946500 2369 c1f6dcb481ffde2b33406e82dd0459c8 "pdflatex"
+  "main.aux" 1757027773 32881 58e1ab67dd4f6a251c753ba2de870b1c "pdflatex"
+  "main.bbl" 1757027753 560630 a7d9a8b7562c0ef365fd9b6c226b2508 "biber main"
+  "main.out" 1757027773 7685 9992eb43d095a6fa1420149107ff9318 "pdflatex"
+  "main.run.xml" 1757027773 2369 c1f6dcb481ffde2b33406e82dd0459c8 "pdflatex"
   "main.tex" 1756419691 5639 b46bca857257e1f8926380e52267b71a ""
-  "main.toc" 1756946500 3320 92908e635928f133de45661e83537d5c "pdflatex"
+  "main.toc" 1757027773 3320 92908e635928f133de45661e83537d5c "pdflatex"
   "titlePage.tex" 1756402601 1192 43d1ee2ca99db48e35d916a3383b4228 ""
   (generated)
   "main.aux"

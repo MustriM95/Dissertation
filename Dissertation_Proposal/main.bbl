@@ -3894,6 +3894,196 @@
       \verb https://doi.org/10.1080/10643380802000974.
       \endverb
     \endentry
+    \entry{mahadevan_dynamic_2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5fe4cab3cdad0afe6bfa1da6b4109af8}{%
+           family={Mahadevan},
+           familyi={M\bibinitperiod},
+           given={Radhakrishnan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ea384d9c21ced8c3da122d709ac0ee6f}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Jeremy\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1a26f946cb250b7985f2642744ce1bb0}{%
+           family={Doyle},
+           familyi={D\bibinitperiod},
+           given={Francis\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a1296ec586f479ad8fc54711c9d7168}
+      \strng{fullhash}{c7f75317947cfbda1cb42365b9f62758}
+      \strng{fullhashraw}{c7f75317947cfbda1cb42365b9f62758}
+      \strng{bibnamehash}{c7f75317947cfbda1cb42365b9f62758}
+      \strng{authorbibnamehash}{c7f75317947cfbda1cb42365b9f62758}
+      \strng{authornamehash}{7a1296ec586f479ad8fc54711c9d7168}
+      \strng{authorfullhash}{c7f75317947cfbda1cb42365b9f62758}
+      \strng{authorfullhashraw}{c7f75317947cfbda1cb42365b9f62758}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Flux Balance Analysis (FBA) has been used in the past to analyze microbial metabolic networks. Typically, FBA is used to study the metabolic flux at a particular steady state of the system. However, there are many situations where the reprogramming of the metabolic network is important. Therefore, the dynamics of these metabolic networks have to be studied. In this paper, we have extended FBA to account for dynamics and present two different formulations for dynamic FBA. These two approaches were used in the analysis of diauxic growth in Escherichia coli. Dynamic FBA was used to simulate the batch growth of E. coli on glucose, and the predictions were found to qualitatively match experimental data. The dynamic FBA formalism was also used to study the sensitivity to the objective function. It was found that an instantaneous objective function resulted in better predictions than a terminal-type objective function. The constraints that govern the growth at different phases in the batch culture were also identified. Therefore, dynamic FBA provides a framework for analyzing the transience of metabolism due to metabolic reprogramming and for obtaining insights for the design of metabolic networks.}
+      \field{issn}{0006-3495}
+      \field{journaltitle}{Biophysical Journal}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Dynamic {Flux} {Balance} {Analysis} of {Diauxic} {Growth} in \textit{{Escherichia} coli}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{83}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{1331\bibrangedash 1340}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/S0006-3495(02)73903-9
+      \endverb
+      \verb{file}
+      \verb Mahadevan et al_2002_Dynamic Flux Balance Analysis of Diauxic Growth in iEscherichia coli-i.pdf:G\:\\Otros ordenadores\\My Computer\\Zotero\\Mahadevan et al_2002_Dynamic Flux Balance Analysis of Diauxic Growth in iEscherichia coli-i.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\micho\\Zotero\\storage\\K4MFZNFE\\S0006349502739039.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0006349502739039
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0006349502739039
+      \endverb
+    \endentry
+    \entry{basan_overflow_2015}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=19663955d493863125d48fa7ed7dc64f}{%
+           family={Basan},
+           familyi={B\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=78647c820a71999863935664a388681e}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Sheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=97294881bd247aeb794d06e7d8b409ae}{%
+           family={Okano},
+           familyi={O\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=36ce118cf8f68edb09ee2e72fd7c5027}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhongge},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=2eaf1ac8cedab60ffc1cc6e343e757df}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ffaf1289b5a9cb42ff97a7a88ebd36db}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=51bdc3ad6579d4affe675723bc921f14}{%
+           family={Hwa},
+           familyi={H\bibinitperiod},
+           given={Terence},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb010035fca80fc01af11d213c78fa3c}
+      \strng{fullhash}{92830336a4563679e92bacf7f93a3191}
+      \strng{fullhashraw}{92830336a4563679e92bacf7f93a3191}
+      \strng{bibnamehash}{fb010035fca80fc01af11d213c78fa3c}
+      \strng{authorbibnamehash}{fb010035fca80fc01af11d213c78fa3c}
+      \strng{authornamehash}{fb010035fca80fc01af11d213c78fa3c}
+      \strng{authorfullhash}{92830336a4563679e92bacf7f93a3191}
+      \strng{authorfullhashraw}{92830336a4563679e92bacf7f93a3191}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Under anaerobic conditions, organisms ranging from bacteria to mam-malian cells excrete large quantities of fermentation products such as acetate or lactate. Notably, the excretion of these fermentation products occurs widely even in the presence of oxygen in fast-growing bacteria and fungi 1-4 , as well as mammalian cells including stem cells, immune cells and cancerous cells 5-7. This seemingly wasteful phenomenon, in which fermentation is used instead of the higher ATP-yielding respiration process for energy generation, is generally referred to as overflow metabolism (or the Warburg effect in the case of cancer 5-7). Various rationalizations of overflow metabolism as well as regulatory schemes have been proposed over the years 2,5,8-20. However, quantitative tests of the proposed hypotheses as well as systematic characterization of overflow metabolism are generally lacking. In this study, we provide a quantitative, physiological study of overflow metabolism for the bacterium E. coli. We report an intriguing set of linear relations between the rates of acetate excretion and steady-state growth rates for E. coli in different nutrient environments and different degrees of induced stresses. These relations, together with the recently established concept of proteome partition 21 , led us to a simple theory of resource allocation, which can quantitatively account for all of the observed behaviours, as well as accurately predict responses to new perturbations. Key parameters of the theory regarding the pro-teome costs of energy biogenesis by respiration and by fermentation were determined by quantitative mass spectrometry following a coarse-graining approach. These results suggest that overflow metabolism is a programmed global response used by cells to balance the conflicting proteomic demands of energy biogenesis and biomass synthesis for rapid growth. Threshold-linear response of acetate overflow Previous studies have established a strong positive correlation between the rate of acetate excretion and the dilution rate for various strains of E. coli grown in glucose-limited continuous culture 16,22-24 (Extended Data Fig. 1a-e). Here, we measured acetate excretion and growth rates of a wild-type E. coli K-12 strain grown in minimal medium batch culture with a variety of glycolytic substrates as the sole carbon sources (black symbols in Fig. 1). Notably, the rate of acetate excretion per biomass, J ac , exhibits a simple threshold-linear dependence on growth rate λ, λ λ λ λ λ λ =        ⋅ (−) ≥ {<} J s for 0 f or ac ac ac ac ac (1) with a linear dependence above a characteristic growth rate (λ ac ≈ 0.76 h −1 , or 55 min per doubling), below which acetate excre-tion disappears. We refer to this linear relation as the acetate line (red line in Fig. 1). Overflow metabolism refers to the seemingly wasteful strategy in which cells use fermentation instead of the more efficient respiration to generate energy, despite the availability of oxygen. Known as the Warburg effect in the context of cancer growth, this phenomenon occurs ubiquitously for fast-growing cells, including bacteria, fungi and mammalian cells, but its origin has remained unclear despite decades of research. Here we study metabolic overflow in Escherichia coli, and show that it is a global physiological response used to cope with changing proteomic demands of energy biogenesis and biomass synthesis under different growth conditions. A simple model of proteomic resource allocation can quantitatively account for all of the observed behaviours, and accurately predict responses to new perturbations. The key hypothesis of the model, that the proteome cost of energy biogenesis by respiration exceeds that by fermentation, is quantitatively confirmed by direct measurement of protein abundances via quantitative mass spectrometry.}
+      \field{title}{Overflow metabolism in {Escherichia} coli results from efficient proteome allocation}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1038/nature15765
+      \endverb
+      \verb{file}
+      \verb Basan et al_2015_Overflow metabolism in Escherichia coli results from efficient proteome.pdf:G\:\\Otros ordenadores\\My Computer\\Zotero\\Basan et al_2015_Overflow metabolism in Escherichia coli results from efficient proteome.pdf:application/pdf
+      \endverb
+      \keyw{★}
+    \endentry
+    \entry{khandelwal_community_2013}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=2d000b74cd71e4b7f17f5d50f16016c6}{%
+           family={Khandelwal},
+           familyi={K\bibinitperiod},
+           given={Ruchir\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c3c0607469180548b3b8d3c429654a31}{%
+           family={Olivier},
+           familyi={O\bibinitperiod},
+           given={Brett\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=4c342c95be5806a48a0b3161a7bd36ea}{%
+           family={Röling},
+           familyi={R\bibinitperiod},
+           given={Wilfred\bibnamedelimb F.\bibnamedelimi M.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=77e329a0e3e9368509efdae26cfcaf5d}{%
+           family={Teusink},
+           familyi={T\bibinitperiod},
+           given={Bas},
+           giveni={B\bibinitperiod}}}%
+        {{hash=501411460f4d5d2b95fc7062743aafb1}{%
+           family={Bruggeman},
+           familyi={B\bibinitperiod},
+           given={Frank\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b7891c3db76482d8e95dd2304d897656}
+      \strng{fullhash}{ddaa3e76b5a06987140bdf7b092b47d8}
+      \strng{fullhashraw}{ddaa3e76b5a06987140bdf7b092b47d8}
+      \strng{bibnamehash}{ddaa3e76b5a06987140bdf7b092b47d8}
+      \strng{authorbibnamehash}{ddaa3e76b5a06987140bdf7b092b47d8}
+      \strng{authornamehash}{b7891c3db76482d8e95dd2304d897656}
+      \strng{authorfullhash}{ddaa3e76b5a06987140bdf7b092b47d8}
+      \strng{authorfullhashraw}{ddaa3e76b5a06987140bdf7b092b47d8}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A central focus in studies of microbial communities is the elucidation of the relationships between genotype, phenotype, and dynamic community structure. Here, we present a new computational method called community flux balance analysis (cFBA) to study the metabolic behavior of microbial communities. cFBA integrates the comprehensive metabolic capacities of individual microorganisms in terms of (genome-scale) stoichiometric models of metabolism, and the metabolic interactions between species in the community and abiotic processes. In addition, cFBA considers constraints deriving from reaction stoichiometry, reaction thermodynamics, and the ecosystem. cFBA predicts for communities at balanced growth the maximal community growth rate, the required rates of metabolic reactions within and between microbes and the relative species abundances. In order to predict species abundances and metabolic activities at the optimal community growth rate, a nonlinear optimization problem needs to be solved. We outline the methodology of cFBA and illustrate the approach with two examples of microbial communities. These examples illustrate two useful applications of cFBA. Firstly, cFBA can be used to study how specific biochemical limitations in reaction capacities cause different types of metabolic limitations that microbial consortia can encounter. In silico variations of those maximal capacities allow for a global view of the consortium responses to various metabolic and environmental constraints. Secondly, cFBA is very useful for comparing the performance of different metabolic cross-feeding strategies to either find one that agrees with experimental data or one that is most efficient for the community of microorganisms.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{5}
+      \field{note}{Publisher: Public Library of Science}
+      \field{number}{5}
+      \field{title}{Community {Flux} {Balance} {Analysis} for {Microbial} {Consortia} at {Balanced} {Growth}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{e64567}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0064567
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\LSX4MSNI\\Khandelwal et al. - 2013 - Community Flux Balance Analysis for Microbial Cons.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064567
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064567
+      \endverb
+      \keyw{Community structure,Metabolic networks,Biomass,Consortia,Glucose,Glucose metabolism,Metabolites,Stoichiometry}
+    \endentry
     \entry{kooijman1998a}{article}{}{}
       \name{author}{1}{}{%
         {{hash=b955c567086676e89b3700e83c6fac53}{%
@@ -4099,78 +4289,6 @@
       \verb{url}
       \verb https://www.cell.com/cell-reports/abstract/S2211-1247(14)00280-0
       \endverb
-    \endentry
-    \entry{khandelwal_community_2013}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=2d000b74cd71e4b7f17f5d50f16016c6}{%
-           family={Khandelwal},
-           familyi={K\bibinitperiod},
-           given={Ruchir\bibnamedelima A.},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=c3c0607469180548b3b8d3c429654a31}{%
-           family={Olivier},
-           familyi={O\bibinitperiod},
-           given={Brett\bibnamedelima G.},
-           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=4c342c95be5806a48a0b3161a7bd36ea}{%
-           family={Röling},
-           familyi={R\bibinitperiod},
-           given={Wilfred\bibnamedelimb F.\bibnamedelimi M.},
-           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=77e329a0e3e9368509efdae26cfcaf5d}{%
-           family={Teusink},
-           familyi={T\bibinitperiod},
-           given={Bas},
-           giveni={B\bibinitperiod}}}%
-        {{hash=501411460f4d5d2b95fc7062743aafb1}{%
-           family={Bruggeman},
-           familyi={B\bibinitperiod},
-           given={Frank\bibnamedelima J.},
-           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{b7891c3db76482d8e95dd2304d897656}
-      \strng{fullhash}{ddaa3e76b5a06987140bdf7b092b47d8}
-      \strng{fullhashraw}{ddaa3e76b5a06987140bdf7b092b47d8}
-      \strng{bibnamehash}{ddaa3e76b5a06987140bdf7b092b47d8}
-      \strng{authorbibnamehash}{ddaa3e76b5a06987140bdf7b092b47d8}
-      \strng{authornamehash}{b7891c3db76482d8e95dd2304d897656}
-      \strng{authorfullhash}{ddaa3e76b5a06987140bdf7b092b47d8}
-      \strng{authorfullhashraw}{ddaa3e76b5a06987140bdf7b092b47d8}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A central focus in studies of microbial communities is the elucidation of the relationships between genotype, phenotype, and dynamic community structure. Here, we present a new computational method called community flux balance analysis (cFBA) to study the metabolic behavior of microbial communities. cFBA integrates the comprehensive metabolic capacities of individual microorganisms in terms of (genome-scale) stoichiometric models of metabolism, and the metabolic interactions between species in the community and abiotic processes. In addition, cFBA considers constraints deriving from reaction stoichiometry, reaction thermodynamics, and the ecosystem. cFBA predicts for communities at balanced growth the maximal community growth rate, the required rates of metabolic reactions within and between microbes and the relative species abundances. In order to predict species abundances and metabolic activities at the optimal community growth rate, a nonlinear optimization problem needs to be solved. We outline the methodology of cFBA and illustrate the approach with two examples of microbial communities. These examples illustrate two useful applications of cFBA. Firstly, cFBA can be used to study how specific biochemical limitations in reaction capacities cause different types of metabolic limitations that microbial consortia can encounter. In silico variations of those maximal capacities allow for a global view of the consortium responses to various metabolic and environmental constraints. Secondly, cFBA is very useful for comparing the performance of different metabolic cross-feeding strategies to either find one that agrees with experimental data or one that is most efficient for the community of microorganisms.}
-      \field{issn}{1932-6203}
-      \field{journaltitle}{PLOS ONE}
-      \field{month}{5}
-      \field{note}{Publisher: Public Library of Science}
-      \field{number}{5}
-      \field{title}{Community {Flux} {Balance} {Analysis} for {Microbial} {Consortia} at {Balanced} {Growth}}
-      \field{urlday}{14}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{8}
-      \field{year}{2013}
-      \field{urldateera}{ce}
-      \field{pages}{e64567}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1371/journal.pone.0064567
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\LSX4MSNI\\Khandelwal et al. - 2013 - Community Flux Balance Analysis for Microbial Cons.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064567
-      \endverb
-      \verb{url}
-      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064567
-      \endverb
-      \keyw{Community structure,Metabolic networks,Biomass,Consortia,Glucose,Glucose metabolism,Metabolites,Stoichiometry}
     \endentry
     \entry{odum_times_1955}{article}{}{}
       \name{author}{2}{}{%
@@ -5856,8 +5974,8 @@
       \strng{authorfullhash}{eca98d65187d2959bcf6c5e0e2f6462f}
       \strng{authorfullhashraw}{eca98d65187d2959bcf6c5e0e2f6462f}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Aim Understanding the drivers of forest structure, function and change is a fundamental problem in both theoretical ecology and applied forestry for carbon mapping and monitoring. An important component of forest ecology research often utilizes allometric equations to scale up local measurements to predict large-scale forest and ecosystem-level properties. However, both applied and theoretical allometries in forest ecology (such as metabolic scaling theory, MST) assume that many scaling relationships are insensitive to broad-scale climate gradients or species life histories. We aim to test these assumptions by mapping continental-scale forest allometry across environmental gradients in the United States. Location United States. Methods We fit exponents to two allometric relationships in c. 100,000 Forest Inventory Analysis (FIA) field plots: (1) the relationship between the height of an individual tree and its diameter, and (2) plot-level tree size distributions. We compare fitted exponents to environmental and life-history variables, such as climate, topography and forest structure, in an attempt to explain allometric variability and deviations from theoretically predicted allometries. Results We find that the structural allometry of forests varies strongly as a function of location in the United States. Allometric exponents appear to asymptote at approximately where MST theory predicts with increasing forest height, while deviations from MST are partially explained as a function of environmentally driven recruitment limitations and successional status. Main conclusions While we find support for invariant tree and stand allometric scaling relationships in forests that are in steady state with regard to demography and resources, we also find considerable spatial variability in forest allometric relationships when steady-state conditions are violated. These findings suggest that extensions of metabolic scaling theory should incorporate variation in demographic dynamics in younger successional forests, and factors influencing recruitment limitation.}
@@ -8382,8 +8500,8 @@
       \strng{authornamehash}{8dc5bfe98fdf2ad38b72056530264f20}
       \strng{authorfullhash}{da34f4230981557b27288367837511de}
       \strng{authorfullhashraw}{da34f4230981557b27288367837511de}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Adaptation to drought involves complex interactions of traits that vary within and among species. To date, few data are available to quantify within-species variation in functional traits and they are rarely integrated into mechanistic models to improve predictions of species response to climate change. We quantified intraspecific variation in functional traits of two Hakea species growing along an aridity gradient in southeastern Australia. Measured traits were later used to parameterise the model SurEau to simulate a transplantation experiment to identify the limits of drought tolerance. Embolism resistance varied between species but not across populations. Instead, populations adjusted to drier conditions via contrasting sets of trait trade-offs that facilitated homeostasis of plant water status. The species from relatively mesic climate, Hakea dactyloides, relied on tight stomatal control whereas the species from xeric climate, Hakea leucoptera dramatically increased Huber value and leaf mass per area, while leaf area index (LAI) and epidermal conductance (gmin) decreased. With trait variability, SurEau predicts the plasticity of LAI and gmin buffers the impact of increasing aridity on population persistence. Knowledge of within-species variability in multiple drought tolerance traits will be crucial to accurately predict species distributional limits.}
@@ -9852,8 +9970,8 @@
       \strng{authornamehash}{f9b603313efbe995bd197c01a26e1328}
       \strng{authorfullhash}{615a81e6fc578b4453d321c192762c04}
       \strng{authorfullhashraw}{615a81e6fc578b4453d321c192762c04}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Tree height composition describes the relative abundance of trees in different height levels and performs as a critical characteristic for community ecology. The recent launched full-waveform spaceborne LiDAR (Light Detection and Ranging), i.e., Global Ecosystem Dynamics Investigation (GEDI), can map canopy height, but whether this observation reflects tree height composition remains untested. In this study, we firstly conduct numerical simulations to explore to what extent tree height composition can be obtained from GEDI waveform signals. We simulate waveforms for diverse forest scenarios using GEDI simulator coupled with LESS (LargE-Scale remote sensing data and image Simulation), a state-of-the-art radiative transfer model. We devise a minimalistic model, Tree generation based on Asymmetric generalized Gaussian (TAG), for customizing tree objects to accelerate forest scene creation. The results demonstrate that tree objects generated by TAG perform similarly in LiDAR simulation with objects from commercial 3-dimensional software. Results of simulated GEDI waveforms reasonably respond to the variation of crown architectures in even-aged forests. GEDI waveforms have an acceptable ability to identify different height layers within multi-layer forests, except for fir forests with a cone-shaped crown. The shape metric of waveforms reflects the height of each layer, while retrieval accuracy decreases with the increases in height variations within each layer. A 5-m interval between layers is the minimum requirement so that the different height layers can be separated. A mixture of different tree species reduces the retrieval accuracy of tree height layers. We also utilize real GEDI observations to retrieve tree heights in multi-height-layer forests. The findings indicate that GEDI waveforms are also efficient in identifying tree height composition in practical forest scenarios. Overall, results from this study demonstrate that GEDI waveforms can reflect the height composition within typical forest stands.}
