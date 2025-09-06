@@ -2554,6 +2554,10 @@
     <bcf:citekey order="107" intorder="2">niklas_growth_2004</bcf:citekey>
     <bcf:citekey order="108" intorder="1">begueria_standardized_2014</bcf:citekey>
     <bcf:citekey order="109" intorder="1">reich2014a</bcf:citekey>
+    <bcf:citekey order="109" intorder="2">wright2004a</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">diaz_global_2016</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">gusewell_n_2004</bcf:citekey>
+    <bcf:citekey order="111" intorder="2">elser_biological_2000</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

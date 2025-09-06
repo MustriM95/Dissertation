@@ -32,4 +32,4 @@
 \contentsline {chapter}{\numberline {5}Metabolomic imprint of plant life history strategies}{18}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Background}{18}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Approach and Methods}{19}{section.5.2}%
-\contentsline {chapter}{References}{30}{chapter*.4}%
+\contentsline {chapter}{References}{31}{chapter*.4}%

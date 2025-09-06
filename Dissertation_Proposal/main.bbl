@@ -10494,6 +10494,154 @@
       \endverb
       \keyw{global warming,drought,drought index,evaporation,Palmer drought severity index (PDSI),Penman–Monteith,standardized precipitation index (SPI)}
     \endentry
+    \entry{gusewell_n_2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3190f6e4360e8d5834924aec0fdd5a6d}{%
+           family={Güsewell},
+           familyi={G\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{fullhash}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{fullhashraw}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{bibnamehash}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{authorbibnamehash}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{authornamehash}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{authorfullhash}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \strng{authorfullhashraw}{3190f6e4360e8d5834924aec0fdd5a6d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Nitrogen (N) and phosphorus (P) availability limit plant growth in most terrestrial ecosystems. This review examines how variation in the relative availability of N and P, as reflected by N : P ratios of plant biomass, influences vegetation composition and functioning. Plastic responses of plants to N and P supply cause up to 50-fold variation in biomass N : P ratios, associated with differences in root allocation, nutrient uptake, biomass turnover and reproductive output. Optimal N : P ratios – those of plants whose growth is equally limited by N and P – depend on species, growth rate, plant age and plant parts. At vegetation level, N : P ratios {<}10 and {>}20 often (not always) correspond to N- and P-limited biomass production, as shown by short-term fertilization experiments; however long-term effects of fertilization or effects on individual species can be different. N : P ratios are on average higher in graminoids than in forbs, and in stress-tolerant species compared with ruderals; they correlate negatively with the maximal relative growth rates of species and with their N-indicator values. At vegetation level, N : P ratios often correlate negatively with biomass production; high N : P ratios promote graminoids and stress tolerators relative to other species, whereas relationships with species richness are not consistent. N : P ratios are influenced by global change, increased atmospheric N deposition, and conservation managment. Contents Summary 243 I Introduction 244 II Variability of N : P ratios in response to nutrient supply 244 III Critical N : P ratios as indicators of nutrient limitation 248 IV Interspecific variation in N : P ratios 252 V Vegetation properties in relation to N : P ratios 255 VI Implications of N : P ratios for human impacts on ecosystems 258 VII Conclusions 259 Acknowledgements 259 References 260}
+      \field{issn}{1469-8137}
+      \field{journaltitle}{New Phytologist}
+      \field{note}{\_eprint: https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-8137.2004.01192.x}
+      \field{number}{2}
+      \field{shorttitle}{N}
+      \field{title}{N : {P} ratios in terrestrial plants: variation and functional significance}
+      \field{urlday}{5}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{164}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{243\bibrangedash 266}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1111/j.1469-8137.2004.01192.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\HQHFDE4S\\Güsewell - 2004 - N P ratios in terrestrial plants variation and functional significance.pdf:application/pdf;Snapshot:C\:\\Users\\micho\\Zotero\\storage\\BT45E8WB\\j.1469-8137.2004.01192.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8137.2004.01192.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8137.2004.01192.x
+      \endverb
+      \keyw{critical N : P ratios,ecological stoichiometry,nutrient limitation,plant strategies,species richness,tissue nutrient concentrations}
+    \endentry
+    \entry{elser_biological_2000}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=4da95d77b76257713da461031b2672c1}{%
+           family={Elser},
+           familyi={E\bibinitperiod},
+           given={J.j.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ea5f93e0d6883a470b4b1341af9f6610}{%
+           family={Sterner},
+           familyi={S\bibinitperiod},
+           given={R.w.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3f9865e31b529c40648160ee00835d04}{%
+           family={Gorokhova},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=78afd7fdcdf2c79d96ace6eb1b5f66ee}{%
+           family={Fagan},
+           familyi={F\bibinitperiod},
+           given={W.f.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=51c90674fc2e8604037502427cfea614}{%
+           family={Markow},
+           familyi={M\bibinitperiod},
+           given={T.a.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7a1e4ac45e742decd557f6c90c793303}{%
+           family={Cotner},
+           familyi={C\bibinitperiod},
+           given={J.b.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=67ddcfde9d050c34c58a6714a8fddde1}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={J.f.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=47602735764ef28744cf083139fa7400}{%
+           family={Hobbie},
+           familyi={H\bibinitperiod},
+           given={S.e.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ae9e2b522cb941ae29a8df888d5eb4a}{%
+           family={Odell},
+           familyi={O\bibinitperiod},
+           given={G.m.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0133a8920cef573ff13c4e70229c51de}{%
+           family={Weider},
+           familyi={W\bibinitperiod},
+           given={L.w.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c75348dc374b3752d94c270c0c352140}
+      \strng{fullhash}{7c0cf130084004a8759c0d4af61ab828}
+      \strng{fullhashraw}{7c0cf130084004a8759c0d4af61ab828}
+      \strng{bibnamehash}{c75348dc374b3752d94c270c0c352140}
+      \strng{authorbibnamehash}{c75348dc374b3752d94c270c0c352140}
+      \strng{authornamehash}{c75348dc374b3752d94c270c0c352140}
+      \strng{authorfullhash}{7c0cf130084004a8759c0d4af61ab828}
+      \strng{authorfullhashraw}{7c0cf130084004a8759c0d4af61ab828}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ecological stoichiometry is the study of the balance of multiple chemical elements in ecological interactions. This paper reviews recent findings in this area and seeks to broaden the stoichiometric concept for use in evolutionary studies, in integrating ecological dynamics with cellular and genetic mechanisms, and in developing a unified means for studying diverse organisms in diverse habitats. This broader approach would then be considered “biological stoichiometry”. Evidence supporting a hypothesised connection between the C:N:P stoichiometry of an organism and its growth rate (the “growth rate hypothesis”) is reviewed. Various data indicate that rapidly growing organisms commonly have low biomass C:P and N:P ratios. Evidence is then discussed suggesting that low C:P and N:P ratios in rapidly growing organisms reflect increased allocation to P-rich ribosomal RNA (rRNA), as rapid protein synthesis by ribosomes is required to support fast growth. Indeed, diverse organisms (bacteria, copepods, fishes, others) exhibit increased RNA levels when growing actively. This implies that evolutionary processes that generate, directly or indirectly, variation in a major life history trait (specific growth rate) have consequences for ecological dynamics due to their effects on organismal elemental composition. Genetic mechanisms by which organisms generate high RNA, high growth rate phenotypes are discussed next, focusing on the structure and organisation of the ribosomal RNA genes (the “rDNA”). In particular, published studies of a variety of taxa suggest an association between growth rate and variation in the length and content of the intergenic spacer (IGS) region of the rDNA tandem repeat unit. In particular, under conditions favouring increased growth or yield, the number of repeat units (“enhancers”) increases (and the IGS increases in length), and transcription rates of rRNA increase. In addition, there is evidence in the literature that increased numbers of copies of rDNA genes are associated with increased growth and production. Thus, a combination of genetic mechanisms may be responsible for establishing the growth potential, and thus the RNA allocation and C:N:P composition, of an organism. Furthermore, various processes, during both sexual and asexual reproduction, can generate variation in the rDNA to provide the raw material for selection and to generate ecologically significant variation in C:N:P stoichiometry. This leads us to hypothesize that the continuous generation of such variation may also play a role in how species interactions develop in ecosystems under different conditions of energy input and nutrient supply.}
+      \field{issn}{1461-0248}
+      \field{journaltitle}{Ecology Letters}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1461-0248.2000.00185.x}
+      \field{number}{6}
+      \field{title}{Biological stoichiometry from genes to ecosystems}
+      \field{urlday}{5}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{3}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{540\bibrangedash 550}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/j.1461-0248.2000.00185.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\XGIV8488\\Elser et al. - 2000 - Biological stoichiometry from genes to ecosystems.pdf:application/pdf;Snapshot:C\:\\Users\\micho\\Zotero\\storage\\2ML9VJEE\\j.1461-0248.2000.00185.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2000.00185.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2000.00185.x
+      \endverb
+      \keyw{Food webs,growth rate,herbivores,life history evolution,phosphorus,rDNA,RNA,stoichiometry}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
