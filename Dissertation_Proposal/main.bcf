@@ -2558,6 +2558,10 @@
     <bcf:citekey order="110" intorder="1">diaz_global_2016</bcf:citekey>
     <bcf:citekey order="111" intorder="1">gusewell_n_2004</bcf:citekey>
     <bcf:citekey order="111" intorder="2">elser_biological_2000</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">bakker_leaf_2011</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">manzoni_stoichiometric_2010</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">kleerebezem2010a</bcf:citekey>
+    <bcf:citekey order="114" intorder="2">hough2020a</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

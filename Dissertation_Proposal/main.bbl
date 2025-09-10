@@ -10642,6 +10642,131 @@
       \endverb
       \keyw{Food webs,growth rate,herbivores,life history evolution,phosphorus,rDNA,RNA,stoichiometry}
     \endentry
+    \entry{bakker_leaf_2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=9152ea764a0fc218ee35cdc9bbf8ede6}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Maartje\bibnamedelima Anne},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=45b938550211f6751d2472a008151099}{%
+           family={Carreño-Rocabado},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Geovana},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cc9aeabc9f121eff68f24dfc985d75d8}{%
+           family={Poorter},
+           familyi={P\bibinitperiod},
+           given={Lourens},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3feb355da30d9fe3b1d91deaea99b091}
+      \strng{fullhash}{16a40a64da978666f3c49e038e0adc6a}
+      \strng{fullhashraw}{16a40a64da978666f3c49e038e0adc6a}
+      \strng{bibnamehash}{16a40a64da978666f3c49e038e0adc6a}
+      \strng{authorbibnamehash}{16a40a64da978666f3c49e038e0adc6a}
+      \strng{authornamehash}{3feb355da30d9fe3b1d91deaea99b091}
+      \strng{authorfullhash}{16a40a64da978666f3c49e038e0adc6a}
+      \strng{authorfullhashraw}{16a40a64da978666f3c49e038e0adc6a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{02698463}
+      \field{journaltitle}{Functional Ecology}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shorttitle}{Leaf economics traits predict litter decomposition of tropical plants and differ among land use types}
+      \field{title}{Leaf economics traits predict litter decomposition of tropical plants and differ among land use types: {Leaf} economics traits and decomposition}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{25}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{473\bibrangedash 483}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/j.1365-2435.2010.01802.x
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\micho\\Zotero\\storage\\2W6NW5PX\\Bakker et al. - 2011 - Leaf economics traits predict litter decomposition of tropical plants and differ among land use type.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2010.01802.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2010.01802.x
+      \endverb
+    \endentry
+    \entry{manzoni_stoichiometric_2010}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=85a51b17e56920241ad5843368b7c7b3}{%
+           family={Manzoni},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7aa9d332ec2339f4f456ae1da32b7b08}{%
+           family={Trofymow},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=99fb475b0459f57edc542316f59bf88e}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c05ce3bd5f3be9c4fac02f27a867b481}{%
+           family={Porporato},
+           familyi={P\bibinitperiod},
+           given={Amilcare},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{20dd54d1e6f21a5942c9aa67b89e23d4}
+      \strng{fullhash}{be7317417c52b911a98bd9449a1c8ca3}
+      \strng{fullhashraw}{be7317417c52b911a98bd9449a1c8ca3}
+      \strng{bibnamehash}{be7317417c52b911a98bd9449a1c8ca3}
+      \strng{authorbibnamehash}{be7317417c52b911a98bd9449a1c8ca3}
+      \strng{authornamehash}{20dd54d1e6f21a5942c9aa67b89e23d4}
+      \strng{authorfullhash}{be7317417c52b911a98bd9449a1c8ca3}
+      \strng{authorfullhashraw}{be7317417c52b911a98bd9449a1c8ca3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The mineralization of nitrogen and phosphorus from plant residues provides an important input of inorganic nutrients to the soil, which can be taken up by plants. The dynamics of nutrient mineralization or immobilization during decomposition are controlled by different biological and physical factors. Decomposers sequester carbon and nutrients from organic substrates and exchange inorganic nutrients with the environment to maintain their stoichiometric balance. Additionally, physical losses of organic compounds from leaching and other processes may alter the nutrient content of litter. In this work, we extend a stoichiometric model of litter nitrogen mineralization to include (1) phosphorus mineralization, (2) physical losses of organic nutrients, and (3) chemical heterogeneity of litter substrates. The enhanced model provides analytical mineralization curves for nitrogen and phosphorus as well as critical litter carbon : nutrient ratios (the carbon : nutrient ratios below which net nutrient release occurs) as a function of the elemental composition of the decomposers, their carbon-use efﬁciency, and the rate of physical loss of organic compounds. The model is used to infer the critical litter carbon : nutrient ratios from observed nitrogen and phosphorus dynamics in about 2600 litterbag samplings from 21 decomposition data sets spanning artic to tropical ecosystems. At the beginning of decomposition, nitrogen and phosphorus tend to be immobilized in boreal and temperate climates (i.e., both C:N and C:P critical ratios are lower than the initial ratios), while in tropical areas nitrogen is generally released and phosphorus may be either immobilized or released, regardless of the typically low phosphorus concentrations. The critical carbon : nutrient ratios we observed were found to increase with initial litter carbon : nutrient ratios, indicating that decomposers adapt to low-nutrient conditions by reducing their carbon-use efﬁciency. This stoichiometric control on nutrient dynamics appears ubiquitous across climatic regions and ecosystems, although other biological and physical processes also play important roles in litter decomposition. In tropical humid conditions, we found high critical C:P ratios likely due to high leaching and low decomposer phosphorus concentrations. In general, the compound effects of stoichiometric constraints and physical losses explain most of the variability in critical carbon : nutrient ratios and dynamics of nutrient immobilization and release at the global scale.}
+      \field{issn}{0012-9615, 1557-7015}
+      \field{journaltitle}{Ecological Monographs}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Stoichiometric controls on carbon, nitrogen, and phosphorus dynamics in decomposing litter}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{80}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{89\bibrangedash 106}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1890/09-0179.1
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\micho\\Zotero\\storage\\CGW4GZ5A\\Manzoni et al. - 2010 - Stoichiometric controls on carbon, nitrogen, and phosphorus dynamics in decomposing litter.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-0179.1
+      \endverb
+      \verb{url}
+      \verb https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-0179.1
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
