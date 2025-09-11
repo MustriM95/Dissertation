@@ -1,18 +1,19 @@
 # Fdb version 4
-["biber main"] 1757546094.91454 "main.bcf" "main.bbl" "main" 1757546106.55725 0
-  "main.bcf" 1757546106 121742 f186ec2843fddb12259c1b33719d6a4c "pdflatex"
-  "references.bib" 1757543297 259415 39ad961e1fd0b3142e23a7734a586664 ""
+["biber main"] 1757632923.01718 "main.bcf" "main.bbl" "main" 1757632948.7548 0
+  "main.bcf" 1757632948 122117 be822b11debacb7066a84a3480bbe038 "pdflatex"
+  "references.bib" 1757632908 265996 3b4b3957c3d596b7bb81c1283019469b ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1757546099.8129 "c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex" "main.pdf" "main" 1757546106.55807 0
+["pdflatex"] 1757632941.7872 "c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex" "main.pdf" "main" 1757632948.75586 0
   "c:/Users/micho/OneDrive/Documentos/PHD/Dissertation/Dissertation_Proposal/main.tex" 1756419691 5639 b46bca857257e1f8926380e52267b71a ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1756404559 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1756405103 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1756409245 2172 fd0c924230362ff848a33632ed45dc23 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1756409245 4524 6bce29db5bc272ba5f332261583fee9c ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1756409245 2124 2601a75482e9426d33db523edf23570a ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1756409245 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1756409245 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1756409245 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1756409245 4640 532ca3305aad10cc01d769f3f91f1029 ""
@@ -43,6 +44,7 @@
   "c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1756409245 45458 504e2b06fa82109d168c7a0afb09e145 ""
   "c:/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1756409245 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "c:/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1756409245 1380 0ea3a3370054be6da6acd929ec569f06 ""
+  "c:/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1756409245 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "c:/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1756409245 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1756406969 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1756403551 40635 c40361e206be584d448876bba8a64a3b ""
@@ -108,6 +110,7 @@
   "c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty" 1756406395 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1756407814 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "c:/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty" 1756407814 856 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
+  "c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1756407814 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "c:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty" 1756408209 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "c:/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1756408239 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "c:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty" 1756408483 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
@@ -122,17 +125,17 @@
   "chapter1.tex" 1756920056 11619 d98bc1f0ac24a0155325decdde18fde5 ""
   "chapter2.tex" 1757027702 14626 767483800c47356c88b66962a3db0d31 ""
   "chapter3.tex" 1757529281 15335 3e5c998a47456851e41337a788e62945 ""
-  "chapter4.tex" 1757546086 10998 d423affd71be266354e30e65facbc3a9 ""
+  "chapter4.tex" 1757632908 12295 842b49f41508ce86028092146dc72658 ""
   "figures/SAD_fig.png" 1756853806 161342 936dac27ca582b886ada06d055635e5a ""
   "figures/SLA_G_Pinc.png" 1756859081 509154 fd6f6db368d143f0d9542d9096c37d3c ""
   "figures/pred.png" 1756402601 41113 305e83182f8fe9d5821822466ee0b711 ""
   "intro.tex" 1756850598 15744 a49531714d828ed600251d1285a94fed ""
-  "main.aux" 1757546106 34976 c3b348aff3e7a7c8d3f079d5a27c1393 "pdflatex"
-  "main.bbl" 1757546099 586055 9c3c7abe8c2ddacc411e3ae5cdfdc60b "biber main"
-  "main.out" 1757546106 7884 516d8944e72b2d1ff1e5ce374d70d73c "pdflatex"
-  "main.run.xml" 1757546106 2369 c1f6dcb481ffde2b33406e82dd0459c8 "pdflatex"
+  "main.aux" 1757632948 35622 8cdda4ac3c87654cac4214b79fefcd1d "pdflatex"
+  "main.bbl" 1757632927 605127 9fd3234f23eb36f1baa5303c66d3a4b9 "biber main"
+  "main.out" 1757632948 7884 516d8944e72b2d1ff1e5ce374d70d73c "pdflatex"
+  "main.run.xml" 1757632948 2369 c1f6dcb481ffde2b33406e82dd0459c8 "pdflatex"
   "main.tex" 1756419691 5639 b46bca857257e1f8926380e52267b71a ""
-  "main.toc" 1757546106 3477 23a0f7c59c4bb0055bda58561497b62b "pdflatex"
+  "main.toc" 1757632948 3477 23a0f7c59c4bb0055bda58561497b62b "pdflatex"
   "titlePage.tex" 1756402601 1192 43d1ee2ca99db48e35d916a3383b4228 ""
   (generated)
   "main.aux"

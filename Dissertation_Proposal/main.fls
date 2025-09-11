@@ -261,6 +261,11 @@ INPUT ./figures/SAD_fig.png
 INPUT ./chapter4.tex
 INPUT ./chapter4.tex
 INPUT chapter4.tex
+INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT main.aux

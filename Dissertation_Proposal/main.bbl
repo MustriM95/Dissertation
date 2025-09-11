@@ -10494,6 +10494,128 @@
       \endverb
       \keyw{global warming,drought,drought index,evaporation,Palmer drought severity index (PDSI),Penman–Monteith,standardized precipitation index (SPI)}
     \endentry
+    \entry{buzzard_continental_2019}{article}{}{}
+      \name{author}{15}{}{%
+        {{hash=0c4dc0bcd5c6a816cf4112e203f63d7c}{%
+           family={Buzzard},
+           familyi={B\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=606175918d21a8f9f5618c472d27d11e}{%
+           family={Michaletz},
+           familyi={M\bibinitperiod},
+           given={Sean\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=1f9a897da5ea253b6793707e1ebde879}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4400b57fd6c95fea5567be799a8e4ae1}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zhili},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1669f8d220cf0f022b839bdba7473a63}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Daliang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=62d91727781303c2d8449bb8bc58af0a}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Lina},
+           giveni={L\bibinitperiod}}}%
+        {{hash=77180d280f936f1bf74c48dede3eff51}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Qichao},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=45847826bc42708a855c92612cfd9cdb}{%
+           family={Van\bibnamedelima Nostrand},
+           familyi={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Joy\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=6011e065f4a87282c8045efce077804e}{%
+           family={Voordeckers},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=c2713ce9ca9b12c68a51f80353d67ab3}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jianjun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e64aa83ce15b9297c21be504bac75e9}{%
+           family={Weiser},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5c060b9fd7e161eae3e484af3d08f91d}{%
+           family={Kaspari},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3f86e2d15e07975d0d2e32e94999f3e6}{%
+           family={Waide},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3fbf5f7857cde5de24ba2c4709a3e5f6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jizhong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ce5b56665b2744fd275a3111b25708a6}{%
+           family={Enquist},
+           familyi={E\bibinitperiod},
+           given={Brian\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e4a5427c6ce1b7e090f144b31acbf1cb}
+      \strng{fullhash}{6ba90d806509d373649ff40849627b81}
+      \strng{fullhashraw}{6ba90d806509d373649ff40849627b81}
+      \strng{bibnamehash}{e4a5427c6ce1b7e090f144b31acbf1cb}
+      \strng{authorbibnamehash}{e4a5427c6ce1b7e090f144b31acbf1cb}
+      \strng{authornamehash}{e4a5427c6ce1b7e090f144b31acbf1cb}
+      \strng{authorfullhash}{6ba90d806509d373649ff40849627b81}
+      \strng{authorfullhashraw}{6ba90d806509d373649ff40849627b81}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Trait-based ecology claims to offer a mechanistic approach for explaining the drivers that structure biological diversity and predicting the responses of species, trophic interactions and ecosystems to environmental change. However, support for this claim is lacking across broad taxonomic groups. A framework for defining ecosystem processes in terms of the functional traits of their constituent taxa across large spatial scales is needed. Here, we provide a comprehensive assessment of the linkages between climate, plant traits and soil microbial traits at many sites spanning a broad latitudinal temperature gradient from tropical to subalpine forests. Our results show that temperature drives coordinated shifts in most plant and soil bacterial traits but these relationships are not observed for most fungal traits. Shifts in plant traits are mechanistically associated with soil bacterial functional traits related to carbon (C), nitrogen (N) and phosphorus (P) cycling, indicating that microbial processes are tightly linked to variation in plant traits that influence rates of ecosystem decomposition and nutrient cycling. Our results are consistent with hypotheses that diversity gradients reflect shifts in phenotypic optima signifying local temperature adaptation mediated by soil nutrient availability and metabolism. They underscore the importance of temperature in structuring the functional diversity of plants and soil microbes in forest ecosystems and how this is coupled to biogeochemical processes via functional traits.}
+      \field{issn}{2397-334X}
+      \field{journaltitle}{Nature Ecology \& Evolution}
+      \field{month}{9}
+      \field{note}{Publisher: Nature Publishing Group}
+      \field{number}{9}
+      \field{title}{Continental scale structuring of forest and soil diversity via functional traits}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1298\bibrangedash 1308}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/s41559-019-0954-7
+      \endverb
+      \verb{file}
+      \verb Buzzard et al_2019_Continental scale structuring of forest and soil diversity via functional traits.pdf:G\:\\Otros ordenadores\\My Computer\\Zotero\\Buzzard et al_2019_Continental scale structuring of forest and soil diversity via functional traits.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41559-019-0954-7
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41559-019-0954-7
+      \endverb
+      \keyw{Macroecology,Community ecology,Microbial ecology}
+    \endentry
     \entry{gusewell_n_2004}{article}{}{}
       \name{author}{1}{}{%
         {{hash=3190f6e4360e8d5834924aec0fdd5a6d}{%
@@ -10869,6 +10991,261 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1093/jxb/erg052
+      \endverb
+    \endentry
+    \entry{wilson_advanced_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e3f44542272d8863eeb2d428f3a910a8}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Rachel\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1b6e339ae0e8ac05a01c65caeca91936}{%
+           family={Tfaily},
+           familyi={T\bibinitperiod},
+           given={Malak\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{18fc02bfbf24b704669e661464024ba4}
+      \strng{fullhash}{18fc02bfbf24b704669e661464024ba4}
+      \strng{fullhashraw}{18fc02bfbf24b704669e661464024ba4}
+      \strng{bibnamehash}{18fc02bfbf24b704669e661464024ba4}
+      \strng{authorbibnamehash}{18fc02bfbf24b704669e661464024ba4}
+      \strng{authornamehash}{18fc02bfbf24b704669e661464024ba4}
+      \strng{authorfullhash}{18fc02bfbf24b704669e661464024ba4}
+      \strng{authorfullhashraw}{18fc02bfbf24b704669e661464024ba4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Carbon flux rates are widely understood to be substrate controlled; however, characterizing substrate quality continues to be a challenge. We suggest that, while optical measurements have their place, they are not the only, or the best, tool for characterizing organic matter quality. Nominal oxidation state of the carbon provides a thermodynamically relevant measure, which could be used as a metric of organic matter quality. Calculating nominal oxidation state of the carbon requires a suite of advanced complementary analysis but is then trivial to calculate from the resulting data sets.}
+      \field{issn}{2169-8961}
+      \field{journaltitle}{Journal of Geophysical Research: Biogeosciences}
+      \field{note}{\_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JG004525}
+      \field{number}{6}
+      \field{title}{Advanced {Molecular} {Techniques} {Provide} {New} {Rigorous} {Tools} for {Characterizing} {Organic} {Matter} {Quality} in {Complex} {Systems}}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{123}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{1790\bibrangedash 1795}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1029/2018JG004525
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\MMLMAR8R\\Wilson and Tfaily - 2018 - Advanced Molecular Techniques Provide New Rigorous Tools for Characterizing Organic Matter Quality i.pdf:application/pdf;Snapshot:C\:\\Users\\micho\\Zotero\\storage\\P28NHU7Y\\2018JG004525.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018JG004525
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2018JG004525
+      \endverb
+      \keyw{dissolved organic matter,FTICRMS,humics,OM quality,optical measurements}
+    \endentry
+    \entry{walker_leaf_2023}{article}{}{}
+      \name{author}{31}{}{%
+        {{hash=10c9e5a1a2b00d2512275b29a30ed41a}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Tom\bibnamedelimb W.\bibnamedelimi N.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=78addbc8c939b8af86b3bcc4979a921d}{%
+           family={Schrodt},
+           familyi={S\bibinitperiod},
+           given={Franziska},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a41a71834a73e21528dde6b91c9952ed}{%
+           family={Allard},
+           familyi={A\bibinitperiod},
+           given={Pierre-Marie},
+           giveni={P\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=a384178b80567d9e4136a92a31f9e4df}{%
+           family={Defossez},
+           familyi={D\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2999c5f978f951e1020c82f99f385b4e}{%
+           family={Jassey},
+           familyi={J\bibinitperiod},
+           given={Vincent\bibnamedelimb E.\bibnamedelimi J.},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7a9ece7cf5ff29cfe093f9c3a648abd4}{%
+           family={Schuman},
+           familyi={S\bibinitperiod},
+           given={Meredith\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5ffa7ebee402535a8e9a03d04670308a}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Jake\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=eed7cfb24993e2f54440c25d781871d2}{%
+           family={Baines},
+           familyi={B\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=17d33fadcde7f840f83b60ffc4a5b678}{%
+           family={Baldy},
+           familyi={B\bibinitperiod},
+           given={Virginie},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d50a13963f02b088676640616abf01de}{%
+           family={Bardgett},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=933ab8050ce0f632d95e19bd1d32f341}{%
+           family={Capdevila},
+           familyi={C\bibinitperiod},
+           given={Pol},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7d1dfee56a0699d6e59d4042ef7011e0}{%
+           family={Coley},
+           familyi={C\bibinitperiod},
+           given={Phyllis\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7949e3ad31376ebe7a657ef9f84de76a}{%
+           family={Dam},
+           familyi={D\bibinitperiod},
+           given={Nicole\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=ac6554abb3e87028b763b957caac5692}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=48f59c91b27414a6506a856833ca17b7}{%
+           family={Descombes},
+           familyi={D\bibinitperiod},
+           given={Patrice},
+           giveni={P\bibinitperiod}}}%
+        {{hash=383c2dc16c9c9116bdc117f2fd2b8120}{%
+           family={Endara},
+           familyi={E\bibinitperiod},
+           given={María-José},
+           giveni={M\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=2895b1348306c2c015fc9beee80aa0de}{%
+           family={Fernandez},
+           familyi={F\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9916bf88e011b49e7a047868b5cb36ac}{%
+           family={Forrister},
+           familyi={F\bibinitperiod},
+           given={Dale},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e8f824c10d5f17fb7a4e390e052d23bd}{%
+           family={Gargallo-Garriga},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+        {{hash=85214a2aa6d5f1c69a88194620903544}{%
+           family={Glauser},
+           familyi={G\bibinitperiod},
+           given={Gaëtan},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c51a4c3bb81d71e237cd33b6ad48a27c}{%
+           family={Marr},
+           familyi={M\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=430c2a8950013fc7088fcff1903e1c8a}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=60c970b9060d198aea6732a81a1c1b2e}{%
+           family={Pellissier},
+           familyi={P\bibinitperiod},
+           given={Loïc},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2602fed6e4ca0c3bf656b5a1453e7a1a}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Kristian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=76e399c8494d67510c5c306c68ce1f0f}{%
+           family={Rasmann},
+           familyi={R\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d86e084f41cfb50e0533e21fe2bbe3f0}{%
+           family={Roessner},
+           familyi={R\bibinitperiod},
+           given={Ute},
+           giveni={U\bibinitperiod}}}%
+        {{hash=6ce107c6ec6dcf41fcf33571e10d5547}{%
+           family={Salguero-Gómez},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7c6daac3b00c52167fe38ae34e38c361}{%
+           family={Sardans},
+           familyi={S\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d9a377cc77ebebc858542b9caeead6f0}{%
+           family={Weckwerth},
+           familyi={W\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod}}}%
+        {{hash=0a0ffa82a73455ff2b12fc453d0df82f}{%
+           family={Wolfender},
+           familyi={W\bibinitperiod},
+           given={Jean-Luc},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=e1096f32c0a77db0dd62a22057483d52}{%
+           family={Peñuelas},
+           familyi={P\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9419bc53a5e2710c911cbb7dd0ff1453}
+      \strng{fullhash}{81103e1b1f375b001224f0cdbf91a4af}
+      \strng{fullhashraw}{81103e1b1f375b001224f0cdbf91a4af}
+      \strng{bibnamehash}{9419bc53a5e2710c911cbb7dd0ff1453}
+      \strng{authorbibnamehash}{9419bc53a5e2710c911cbb7dd0ff1453}
+      \strng{authornamehash}{9419bc53a5e2710c911cbb7dd0ff1453}
+      \strng{authorfullhash}{81103e1b1f375b001224f0cdbf91a4af}
+      \strng{authorfullhashraw}{81103e1b1f375b001224f0cdbf91a4af}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The metabolome is the biochemical basis of plant form and function, but we know little about its macroecological variation across the plant kingdom. Here, we used the plant functional trait concept to interpret leaf metabolome variation among 457 tropical and 339 temperate plant species. Distilling metabolite chemistry into five metabolic functional traits reveals that plants vary on two major axes of leaf metabolic specialization—a leaf chemical defense spectrum and an expression of leaf longevity. Axes are similar for tropical and temperate species, with many trait combinations being viable. However, metabolic traits vary orthogonally to life-history strategies described by widely used functional traits. The metabolome thus expands the functional trait concept by providing additional axes of metabolic specialization for examining plant form and function.}
+      \field{journaltitle}{Science Advances}
+      \field{month}{8}
+      \field{note}{Publisher: American Association for the Advancement of Science}
+      \field{number}{35}
+      \field{title}{Leaf metabolic traits reveal hidden dimensions of plant form and function}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{eadi4029}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/sciadv.adi4029
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\6AUQCFI2\\Walker et al. - 2023 - Leaf metabolic traits reveal hidden dimensions of plant form and function.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/sciadv.adi4029
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/sciadv.adi4029
       \endverb
     \endentry
   \enddatalist

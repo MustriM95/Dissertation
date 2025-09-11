@@ -2553,18 +2553,23 @@
     <bcf:citekey order="107" intorder="1">kempes2011a</bcf:citekey>
     <bcf:citekey order="107" intorder="2">niklas_growth_2004</bcf:citekey>
     <bcf:citekey order="108" intorder="1">begueria_standardized_2014</bcf:citekey>
-    <bcf:citekey order="109" intorder="1">reich2014a</bcf:citekey>
-    <bcf:citekey order="109" intorder="2">wright2004a</bcf:citekey>
-    <bcf:citekey order="110" intorder="1">diaz_global_2016</bcf:citekey>
-    <bcf:citekey order="111" intorder="1">gusewell_n_2004</bcf:citekey>
-    <bcf:citekey order="111" intorder="2">elser_biological_2000</bcf:citekey>
-    <bcf:citekey order="112" intorder="1">bakker_leaf_2011</bcf:citekey>
-    <bcf:citekey order="113" intorder="1">manzoni_stoichiometric_2010</bcf:citekey>
-    <bcf:citekey order="114" intorder="1">kleerebezem2010a</bcf:citekey>
-    <bcf:citekey order="114" intorder="2">hough2022a</bcf:citekey>
-    <bcf:citekey order="115" intorder="1">vipina_modelling_2025</bcf:citekey>
-    <bcf:citekey order="115" intorder="2">paul_carbon_2003</bcf:citekey>
-    <bcf:citekey order="116" intorder="1">hough2022a</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">buzzard_continental_2019</bcf:citekey>
+    <bcf:citekey order="109" intorder="2">hough2022a</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">reich2014a</bcf:citekey>
+    <bcf:citekey order="110" intorder="2">wright2004a</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">diaz_global_2016</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">gusewell_n_2004</bcf:citekey>
+    <bcf:citekey order="112" intorder="2">elser_biological_2000</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">bakker_leaf_2011</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">manzoni_stoichiometric_2010</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">kleerebezem2010a</bcf:citekey>
+    <bcf:citekey order="115" intorder="2">hough2022a</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">vipina_modelling_2025</bcf:citekey>
+    <bcf:citekey order="116" intorder="2">paul_carbon_2003</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">hough2022a</bcf:citekey>
+    <bcf:citekey order="117" intorder="2">wilson_advanced_2018</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">walker_leaf_2023</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">wilson_advanced_2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
