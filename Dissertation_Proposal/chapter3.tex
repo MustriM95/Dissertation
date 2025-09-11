@@ -30,7 +30,7 @@ The generality of size-structured frameworks has lent itself to a wide range of 
 
 Here, I propose a novel approach for quantifying forest robustness and resilience based on allometric models of vegetation growth and size-abundance distributions inferred from remote sensing. This research consists of three components: (1) Mapping global forest height distributions using GEDI LiDAR waveforms and SAR tomography. (2) Using size-abundance distributions and climate data to parameterize size-structured vegetation models and establish baseline expectations. (3) Comparing modeled predictions to forests with known disturbance regimes (i.e. managed forests) to generate quantitative disturbance profiles. 
 
-\subsection{Mapping global forest height distributions with remote sensing}
+\subsection{Mapping global forest height distributions with remote sensing} \label{task1}
 
 Advancements in remote sensing now allow for the reconstruction of forest structure with increasing accuracy. In particular, GEDI LiDAR has proven to be especially valuable for above-ground biomass estimation, especially when paired with other remote sensing tools and calibrated with field data \cite{chi_national_2015, crockett_structural_2023, potapov_mapping_2021}. Although uncertainties exist in tree height estimation, recent studies indicate that GEDI can accurately capture normalized height frequency distributions which better reflects size structure \cite{tan_exploring_2024}. Specifically, Ngo et al., \cite{ngo_tropical_2022} demonstrated that GEDI waveforms accurately characterized the vertical structure of tropical forests when combined with P-band synthetic aperture radar (SAR) tomography (Figure 2).
 
@@ -40,6 +40,7 @@ The first stage of the pipeline will identify appropriate datasets with which to
 Field-based diameter distributions will then be used to train and evaluate models that predict size-abundance distributions from GEDI waveforms and SAR backscatter profiles. Two main modeling approaches will be compared: deep learning with convolutional neural networks based on the FORMS model \cite{schwartz_forms_2023}, and random forest regression coupled with Monte Carlo simulation \cite{li_aboveground_2022}. Both of these approaches have shown promising results in estimating above ground biomass from remote sensing data, and we expect similar performance when estimating size distributions.
 
 \subsection{Baseline Predictions in Pristine Forests}
+\label{task2}
 
 This portion of the chapter will use data from pristine forests to parameterize a general model of vegetation growth. The purpose of this is to provide threshold expectations for how climate and biogeography impact forest height structure in the absence of long-term perturbations. Environmental parameters will be constrained through historical average precipitation and photon flux densities derived from climate models. I present a slightly modified version of the Von Foerster model to explicitly incorporate stochasticity.
 
@@ -77,8 +78,9 @@ The time dependence denoted by $\chi(t)$ can be modeled as colored noise based o
 Having defined the system in this manner and assuming that intact forests are dominated by resource supply and metabolic demand constrains nearly all parameters through robust allometric relationships and climate. Hence, the fitting procedure is only concerns the interaction structure of the underlying vegetation ($\beta_{0}h^{-\alpha}$).
 
 \subsection{Characterizing Disturbance From Deviations in Managed Forests}
+\label{task3}
 
-Using results from Task 2, I will analyze forests with biogeographic adjacency but varying disturbance regimes. The premise is that forests with similar interaction structure and climate should exhibit comparable size-abundance distributions in the absence of disturbance. By comparing disturbed forests to baseline expectations, I will quantify the impact of different disturbance types. This involves (1) Identifying forests with independently quantifiable, above baseline mortality rates; and (2) using inferred height profiles to parameterize added mortality.
+Using results from \ref{task2}, I will analyze forests with biogeographic adjacency but varying disturbance regimes. The premise is that forests with similar interaction structure and climate should exhibit comparable size-abundance distributions in the absence of disturbance. By comparing disturbed forests to baseline expectations, I will quantify the impact of different disturbance types. This involves (1) Identifying forests with independently quantifiable, above baseline mortality rates; and (2) using inferred height profiles to parameterize added mortality.
 
 
 

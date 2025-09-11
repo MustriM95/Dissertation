@@ -10767,6 +10767,110 @@
       \verb https://esajournals.onlinelibrary.wiley.com/doi/10.1890/09-0179.1
       \endverb
     \endentry
+    \entry{vipina_modelling_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0419b5a3aea021ebd5c0956c180e0512}{%
+           family={Vipina},
+           familyi={V\bibinitperiod},
+           given={Velayudhan},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0dcbbdec8e92262fd0064dfdf5f38001}{%
+           family={Shameer},
+           familyi={S\bibinitperiod},
+           given={Sanu},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0047324172ad4d10b454e1c62163e16d}
+      \strng{fullhash}{0047324172ad4d10b454e1c62163e16d}
+      \strng{fullhashraw}{0047324172ad4d10b454e1c62163e16d}
+      \strng{bibnamehash}{0047324172ad4d10b454e1c62163e16d}
+      \strng{authorbibnamehash}{0047324172ad4d10b454e1c62163e16d}
+      \strng{authornamehash}{0047324172ad4d10b454e1c62163e16d}
+      \strng{authorfullhash}{0047324172ad4d10b454e1c62163e16d}
+      \strng{authorfullhashraw}{0047324172ad4d10b454e1c62163e16d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PlantCoreMetabolism is a manually curated charge- and proton-balanced model of plant primary metabolism published in 2018. Since it consists of reactions common to all plants, the model has been used to study metabolism in a wide range of plant systems, including C3 leaves, crassulacean acid metabolism leaves, fruit pericarp cells, maize roots, and stomatal guard cells. Here, we summarize the application of diel flux balance analysis (FBA) leaf models derived from the PlantCoreMetabolism model. Diel FBA models extend traditional FBA by optimizing metabolism over a 24-h light-dark cycle, capturing metabolic processes spread across multiple temporal phases. In this methods paper, we also describe key use cases of diel FBA leaf models, provide case study tutorials to demonstrate the utility of a diel leaf model, and introduce flux visualization tools to facilitate future work with the model.}
+      \field{issn}{2517-5025}
+      \field{journaltitle}{in silico Plants}
+      \field{month}{7}
+      \field{number}{2}
+      \field{title}{Modelling leaf metabolism using a charge- and proton-balanced diel flux balance analysis model}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{7}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{diaf008}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/insilicoplants/diaf008
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\PZIVFWTJ\\Vipina and Shameer - 2025 - Modelling leaf metabolism using a charge- and proton-balanced diel flux balance analysis model.pdf:application/pdf;Snapshot:C\:\\Users\\micho\\Zotero\\storage\\MCYY24VI\\diaf008.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/insilicoplants/diaf008
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/insilicoplants/diaf008
+      \endverb
+    \endentry
+    \entry{paul_carbon_2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=21765fd6f3b3419dab818bb11e1fab09}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b6c803bc64930af08fed3e38fccffe8a}{%
+           family={Pellny},
+           familyi={P\bibinitperiod},
+           given={Till\bibnamedelima K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{fullhash}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{fullhashraw}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{bibnamehash}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{authorbibnamehash}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{authornamehash}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{authorfullhash}{695ecd1ef3923c29af213d4ede77e8e9}
+      \strng{authorfullhashraw}{695ecd1ef3923c29af213d4ede77e8e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Photosynthesis is regulated as a two‐way process. Light regulates the expression of genes for photosynthesis and the activity of the gene products (feedforward control). Rate of end‐product use down‐stream of the Calvin cycle, determined largely by nutrition and temperature, also affects photosynthetic activity and photosynthetic gene expression (feedback control). Whereas feedforward control ensures efficient light use, feedback mechanisms ensure that carbon flow is balanced through the pathways that produce and consume carbon, so that inorganic phosphate is recycled and nitrogen is distributed optimally to different processes to ensure growth and survival. Actual mechanisms are sketchy and complex, but carbon to nitrogen balance rather than carbon status per se is central to understanding carbon metabolite feedback control of photosynthesis. In addition to determining the activity of the metabolic machinery, carbon metabolite feedback mechanisms also regulate photosynthesis at the leaf level through the regulation of leaf development. This review summarizes the current sketchy, but growing, knowledge of the mechanisms through which carbon metabolite feedback mechanisms regulate leaf photosynthesis.}
+      \field{issn}{0022-0957}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{month}{1}
+      \field{number}{382}
+      \field{title}{Carbon metabolite feedback regulation of leaf photosynthesis and development}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{54}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{539\bibrangedash 547}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/jxb/erg052
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\micho\\Zotero\\storage\\8JG99MYZ\\Paul and Pellny - 2003 - Carbon metabolite feedback regulation of leaf photosynthesis and development.pdf:application/pdf;Snapshot:C\:\\Users\\micho\\Zotero\\storage\\9B3DNYUS\\erg052.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/jxb/erg052
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/jxb/erg052
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

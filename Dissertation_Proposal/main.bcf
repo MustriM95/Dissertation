@@ -2561,7 +2561,10 @@
     <bcf:citekey order="112" intorder="1">bakker_leaf_2011</bcf:citekey>
     <bcf:citekey order="113" intorder="1">manzoni_stoichiometric_2010</bcf:citekey>
     <bcf:citekey order="114" intorder="1">kleerebezem2010a</bcf:citekey>
-    <bcf:citekey order="114" intorder="2">hough2020a</bcf:citekey>
+    <bcf:citekey order="114" intorder="2">hough2022a</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">vipina_modelling_2025</bcf:citekey>
+    <bcf:citekey order="115" intorder="2">paul_carbon_2003</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">hough2022a</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

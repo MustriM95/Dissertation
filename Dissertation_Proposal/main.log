@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  9 SEP 2025 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  10 SEP 2025 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -700,7 +700,7 @@ Chapter 2.
 [5
 
 ]
-<figures/pred.png, id=353, 750.55406pt x 276.28218pt>
+<figures/pred.png, id=363, 750.55406pt x 276.28218pt>
 File: figures/pred.png Graphic file (type png)
 <use figures/pred.png>
 Package pdftex.def Info: figures/pred.png  used on input line 30.
@@ -710,7 +710,7 @@ Package pdftex.def Info: figures/pred.png  used on input line 30.
 [6 <./figures/pred.png>]
 
 [7]
-<figures/SLA_G_Pinc.png, id=397, 1084.05pt x 722.7pt>
+<figures/SLA_G_Pinc.png, id=407, 1084.05pt x 722.7pt>
 File: figures/SLA_G_Pinc.png Graphic file (type png)
 <use figures/SLA_G_Pinc.png>
 Package pdftex.def Info: figures/SLA_G_Pinc.png  used on input line 94.
@@ -738,10 +738,10 @@ Chapter 4.
 ]
 
 [14]
-<figures/SAD_fig.png, id=587, 1284.8pt x 963.6pt>
+<figures/SAD_fig.png, id=597, 1284.8pt x 963.6pt>
 File: figures/SAD_fig.png Graphic file (type png)
 <use figures/SAD_fig.png>
-Package pdftex.def Info: figures/SAD_fig.png  used on input line 48.
+Package pdftex.def Info: figures/SAD_fig.png  used on input line 49.
 (pdftex.def)             Requested size: 375.80544pt x 281.84819pt.
 
 
@@ -755,11 +755,13 @@ Chapter 5.
 
 [18
 
-])
+]
 
-[19]
+[19])
 
-[20
+[20]
+
+[21
 
 ]
 Overfull \hbox (23.26166pt too wide) in paragraph at lines 169--169
@@ -768,20 +770,20 @@ Overfull \hbox (23.26166pt too wide) in paragraph at lines 169--169
 
 
 
-[21]
-
 [22]
 
 [23]
+
+[24]
 Overfull \hbox (3.14601pt too wide) in paragraph at lines 169--169
 []\OT1/ptm/m/n/12 K. J. Niklas and B. J. En-quist, ``In-vari-ant scal-ing re-la-tion-ships for in-ter-spe-cific plant biomass
  []
 
 
 
-[24]
-
 [25]
+
+[26]
 Overfull \hbox (4.94473pt too wide) in paragraph at lines 169--169
 []\OT1/ptm/m/n/12 E. Desmond-Le Qu[]em[]ener and T. Bouchez, ``A ther-mo-dy-namic the-ory of mi-cro-bial growth,''
  []
@@ -793,7 +795,7 @@ Overfull \hbox (1.2531pt too wide) in paragraph at lines 169--169
 
 
 
-[26]
+[27]
 Overfull \hbox (8.74655pt too wide) in paragraph at lines 169--169
 []\OT1/ptm/m/n/12 S. Chen et al., ``Ama-zon for-est bio-geog-ra-phy pre-dicts re-silience and vul-ner-a-bil-ity to drought,''
  []
@@ -805,48 +807,53 @@ Overfull \hbox (1.5093pt too wide) in paragraph at lines 169--169
 
 
 
-[27]
-
 [28]
+
+[29]
 Overfull \hbox (1.41754pt too wide) in paragraph at lines 169--169
 \OT1/ptm/m/n/12 ri-cane Dis-tur-bance and Re-cov-ery,'' \OT1/ptm/m/it/12 Jour-nal of Ad-vances in Mod-el-ing Earth Sys-tems\OT1/ptm/m/n/12 , vol. 16,
  []
 
 
 
-[29]
+[30]
 Overfull \hbox (117.75804pt too wide) in paragraph at lines 169--169
 \OT1/ptm/m/it/12 Phy-tol-o-gist\OT1/ptm/m/n/12 , vol. 164, no. 2, pp. 243{266, 2004, []eprint: https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-
  []
 
 
 
-[30]
+[31]
+Overfull \hbox (1.11617pt too wide) in paragraph at lines 169--169
+[]\OT1/ptm/m/n/12 V. Vip-ina and S. Shameer, ``Mod-elling leaf metabolism us-ing a charge- and proton-balanced
+ []
 
-[31] (./main.aux)
+
+
+[32] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9992EB43D095A6FA1420149107FF9318;7685.
+(rerunfilecheck)             Checksum: 516D8944E72B2D1FF1E5CE374D70D73C;7884.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20970 strings out of 467800
- 387839 string characters out of 5436061
- 1395487 words of memory out of 5000000
- 49171 multiletter control sequences out of 15000+600000
+ 20989 strings out of 467800
+ 388343 string characters out of 5436061
+ 1401824 words of memory out of 5000000
+ 49185 multiletter control sequences out of 15000+600000
  642870 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,12n,103p,4076b,1542s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,12n,103p,4076b,1540s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (34 pages, 850755 bytes).
+Output written on main.pdf (35 pages, 854624 bytes).
 PDF statistics:
- 798 PDF objects out of 1000 (max. 8388607)
- 724 compressed objects within 8 object streams
- 225 named destinations out of 1000 (max. 500000)
- 296 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 819 PDF objects out of 1000 (max. 8388607)
+ 744 compressed objects within 8 object streams
+ 230 named destinations out of 1000 (max. 500000)
+ 312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
